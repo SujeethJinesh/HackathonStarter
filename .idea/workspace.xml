@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47b814b4-8cf5-403b-82d6-3403ce6430e8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/HackathonStarter.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/authentication/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/authentication/facebook_auth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/authentication/google_auth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/authentication/linkedin_auth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/authentication/twitter_auth.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/github/github.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gui/gui.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/main.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/activate" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/easy_install" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.6" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/pip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/pip3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/pip3.6" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/python" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/python3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/easy-install.pth" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools.pth" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/window-0.0.3-py3.6.egg-info/PKG-INFO" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/window-0.0.3-py3.6.egg-info/SOURCES.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/window-0.0.3-py3.6.egg-info/dependency_links.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/window-0.0.3-py3.6.egg-info/installed-files.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/window-0.0.3-py3.6.egg-info/pbr.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/window-0.0.3-py3.6.egg-info/top_level.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/window.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-    </list>
+    <list default="true" id="47b814b4-8cf5-403b-82d6-3403ce6430e8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
