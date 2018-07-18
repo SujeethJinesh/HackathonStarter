@@ -1,5 +1,13 @@
-from github.github import GitClient
-from gui.gui import Gui
+from github_client.github_client import GitClient
+# from gui.gui import Gui
 
-gui = Gui()
-git_client = GitClient()
+
+def main():
+    # gui = Gui()
+    git_client = GitClient()
+
+    git_client.create_repo()
+
+
+if __name__ == '__main__':
+    main()
